@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 style: light
 
 plugins:
@@ -21,11 +21,17 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 1000
   exclude:
-    archived: false
-    forks: true
+    archived: true
+    forks: false
     projects:
+      - Setting-up-Raspberry-Pi-and-Pi-Cam
+      - Format-drives-with-terminal-on-Mac
+      - Image-Analyser-hard-coded-image
+      - Pick-image-from-gallery
+      - Shake-detector
+      - Locking-android-activity-w-password
     # - repo-name
 
 # social_media:
