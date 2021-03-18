@@ -1,3 +1,7 @@
+email:
+  name: Email
+  icon_svg: '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#959da5" viewBox="0 0 50 50" enable-background="new 0 0 50 50"><path style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;-inkscape-font-specification:Bitstream Vera Sans" d="M 0 7 L 0 8 L 0 42 L 0 43 L 1 43 L 49 43 L 50 43 L 50 42 L 50 8 L 50 7 L 49 7 L 1 7 L 0 7 z M 2 9 L 48 9 L 48 11.53125 L 25 29.71875 L 2 11.53125 L 2 9 z M 2 14.09375 L 24.375 31.78125 A 1.0001 1.0001 0 0 0 25.625 31.78125 L 48 14.09375 L 48 41 L 2 41 L 2 14.09375 z" overflow="visible" enable-background="accumulate" font-family="Bitstream Vera Sans"/></svg>'
+  
 behance:
   name: Behance
   profile_url_prefix: https://www.behance.net/

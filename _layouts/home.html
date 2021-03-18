@@ -23,6 +23,7 @@
         {% include thoughts.html %}
       </div>
     {% endunless %}
+    {% include copyright.html %}
   </div>
 {% else %}
   <div class="d-md-flex min-height-full {% unless site.style == 'dark' %}border-md-bottom{% endunless %}">
@@ -47,6 +48,7 @@
         {% unless posts_total == 0 %}
           {% include thoughts.html %}
         {% endunless %}
+        {% include copyright.html %}
       </div>
     </div>
   </div>
