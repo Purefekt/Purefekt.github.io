@@ -26,9 +26,7 @@ projects:
     archived: false
     forks: false
     projects:
-      - WPF-chat-application
       - Purefekt.github.io
-      - Server-Client-Program
     # - repo-name
 
 social_media:
