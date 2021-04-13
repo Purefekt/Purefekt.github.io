@@ -27,6 +27,7 @@ projects:
     forks: false
     projects:
       - Purefekt.github.io
+      - Linux-File-Security
     # - repo-name
 
 social_media:
