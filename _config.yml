@@ -28,6 +28,9 @@ projects:
     projects:
       - Purefekt.github.io
       - Linux-File-Security
+      - ChatBot
+      - Handy-Python-Scripts
+      - Raspberry-Pi-Mini-Projects
     # - repo-name
 
 social_media:
