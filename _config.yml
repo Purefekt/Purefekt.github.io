@@ -31,6 +31,7 @@ projects:
       - ChatBot
       - Raspberry-Pi-Mini-Projects
       - GRE-guide
+      - signature_detection
     # - repo-name
 
 social_media:
