@@ -52,6 +52,19 @@ social_media:
   # website: http://your_website_url
   # youtube: your_username
 
+links:
+  - name: Downloadable Resume
+    web_url: http://veer-singh.com/assets/Veer%20Singh%20[Resume].pdf
+    image_url: http://veer-singh.com/assets/resume.png
+
+  - name: Certifications
+    web_url: http://veer-singh.com/assets/[0]ALL%20CERTS.pdf
+    image_url: 
+
+  - name: Interactive Resume
+    web_url: http://veer-singh.com/assets/Veer%20Singh%20[Resume].pdf
+    image_url: https://www.clipartmax.com/png/middle/292-2928807_digital-tools-for-researchers-connected-icon-16325-research-paper-icon.png
+
 topics:
   - name: TensorFlow
     web_url: https://github.com/topics/tensorflow
