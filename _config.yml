@@ -59,11 +59,11 @@ links:
 
   - name: Certifications
     web_url: http://veer-singh.com/assets/[0]ALL%20CERTS.pdf
-    image_url: 
+    image_url: http://veer-singh.com/assets/certifications.png
 
-  - name: Interactive Resume
+  - name: Online Resume
     web_url: http://veer-singh.com/assets/Veer%20Singh%20[Resume].pdf
-    image_url: https://www.clipartmax.com/png/middle/292-2928807_digital-tools-for-researchers-connected-icon-16325-research-paper-icon.png
+    image_url: http://veer-singh.com/assets/online_resume.png
 
 topics:
   - name: TensorFlow
