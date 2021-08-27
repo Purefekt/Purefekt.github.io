@@ -32,6 +32,7 @@ projects:
       - Raspberry-Pi-Mini-Projects
       - GRE-guide
       - signature_detection
+      - online-cv
     # - repo-name
 
 social_media:
@@ -53,17 +54,17 @@ social_media:
   # youtube: your_username
 
 links:
-  - name: Downloadable Resume
+  - name: Online Resume
     web_url: http://veer-singh.com/assets/Veer%20Singh%20[Resume].pdf
-    image_url: http://veer-singh.com/assets/resume.png
+    image_url: http://veer-singh.com/assets/online_resume.png
 
   - name: Certifications
     web_url: http://veer-singh.com/assets/[0]ALL%20CERTS.pdf
     image_url: http://veer-singh.com/assets/certifications.png
 
-  - name: Online Resume
+  - name: Downloadable Resume
     web_url: http://veer-singh.com/assets/Veer%20Singh%20[Resume].pdf
-    image_url: http://veer-singh.com/assets/online_resume.png
+    image_url: http://veer-singh.com/assets/resume.png
 
 topics:
   - name: TensorFlow
