@@ -33,6 +33,7 @@ projects:
       - GRE-guide
       - signature_detection
       - online-cv
+      - certifications_page
     # - repo-name
 
 social_media:
