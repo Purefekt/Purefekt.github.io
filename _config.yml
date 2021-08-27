@@ -56,11 +56,11 @@ social_media:
 
 links:
   - name: Online Resume
-    web_url: http://veer-singh.com/assets/Veer%20Singh%20[Resume].pdf
+    web_url: https://veer-singh.com/online-cv/
     image_url: http://veer-singh.com/assets/online_resume.png
 
   - name: Certifications
-    web_url: http://veer-singh.com/assets/[0]ALL%20CERTS.pdf
+    web_url: https://veer-singh.com/certifications_page/
     image_url: http://veer-singh.com/assets/certifications.png
 
   - name: Downloadable Resume
